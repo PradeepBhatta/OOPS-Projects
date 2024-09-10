@@ -1,2 +1,1 @@
-# Oops
-Hello I am Pradeep and I am a begineer .
+Simple programs built using OOP concepts
