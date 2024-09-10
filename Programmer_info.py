@@ -10,8 +10,8 @@ class Programmmer():
         print(f'''Name :- {self.name}\nSalary :- {self.salary}\nWorking hours :- {self.wh}\n''')
 
 
-hero = Programmmer("Hero", "50 k", 8)
-superhero = Programmmer("Superhero", "100 k", 10)
+p1 = Programmmer("Joe", "150 k", 8)
+p2= Programmmer("Pradeep", "200 k", 10)
 
-hero.info()
-superhero.info()
+p1.info()
+p2.info()
